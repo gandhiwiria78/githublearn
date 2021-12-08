@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401444309807",
+    "project_id": "geetaxi-676f1",
+    "storage_bucket": "geetaxi-676f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401444309807:android:a76f9956c4a5e088da2fda",
+        "android_client_info": {
+          "package_name": "com.cabrider.grab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401444309807-s96dtdgkt4rf2bn4d0fekiivnbfcc8sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg4QdFTJ7EOB0JgCLiCXA7UR5OAJetOiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401444309807-s96dtdgkt4rf2bn4d0fekiivnbfcc8sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
